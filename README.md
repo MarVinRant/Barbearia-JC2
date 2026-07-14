@@ -1,16 +1,114 @@
-# React + Vite
+# 💈 Barbearia JC
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> 💡 Este projeto faz parte da minha jornada como Desenvolvedor Web.
+> Cada aplicação foi desenvolvida para resolver um problema real ou simular desafios encontrados no mercado, buscando aplicar boas práticas, evolução técnica e foco na experiência do usuário.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📖 Sobre o projeto
 
-## React Compiler
+A **Barbearia JC** é uma aplicação web desenvolvida para fortalecer a presença digital de uma barbearia através de uma experiência moderna, responsiva e intuitiva.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+O projeto foi desenvolvido para apresentar os serviços da empresa, transmitir mais credibilidade no ambiente digital e facilitar o contato entre clientes e a barbearia.
 
-## Expanding the ESLint configuration
+Além do desenvolvimento da interface, participei da análise da identidade visual da empresa, adaptando elementos do Instagram para uma experiência web mais profissional.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎯 Objetivo
+
+Criar uma presença digital moderna para a barbearia, aumentando sua visibilidade, fortalecendo sua marca e facilitando o contato com novos clientes.
+
+---
+
+## ✨ Funcionalidades
+
+- 💈 Apresentação da barbearia
+- ✂️ Exibição dos serviços
+- 📸 Galeria de imagens
+- 📱 Layout Responsivo
+- 💬 Contato rápido pelo WhatsApp
+- ⚡ Navegação otimizada
+- 🚀 Deploy na Vercel
+
+---
+
+## 🛠️ Tecnologias
+
+- React
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- Git
+- GitHub
+- Vercel
+
+---
+
+## 📚 O que aprendi
+
+Durante o desenvolvimento deste projeto aprofundei conhecimentos em:
+
+- Componentização utilizando React
+- Estruturação de aplicações Front-end
+- Organização de componentes
+- Responsividade
+- Desenvolvimento baseado na necessidade do cliente
+- Deploy em produção
+
+---
+
+## 🚀 Próximas melhorias
+
+- Sistema de agendamento online
+- Painel administrativo
+- Integração com Google Maps
+- Avaliações de clientes
+- Formulário de contato
+- CMS para gerenciamento de conteúdo
+
+---
+
+## 📷 Preview
+
+> Em breve...
+
+---
+
+## 🌐 Deploy
+
+👉 https://barbearia-jc-2.vercel.app/
+
+---
+
+## 💻 Como executar
+
+```bash
+git clone https://github.com/MarVinRant/barbearia-jc
+
+cd barbearia-jc
+
+npm install
+
+npm run dev
+```
+
+---
+
+## 👨‍💻 Autor
+
+**Marcos Rantigueri**
+
+🌐 Portfólio  
+https://marvinrant.github.io/Portifolio/
+
+💼 LinkedIn  
+https://linkedin.com/in/marcos-rantigueri
+
+💻 GitHub  
+https://github.com/MarVinRant
+
+---
+
+> **Transformando problemas reais em soluções digitais.**
