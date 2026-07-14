@@ -24,9 +24,10 @@ Criar uma presença digital moderna para a barbearia, aumentando sua visibilidad
 ## 🎯 Desafio
 
 O maior desafio deste projeto foi transformar as necessidades do cliente em uma aplicação web intuitiva, moderna e responsiva, mantendo uma identidade visual consistente com a marca e proporcionando uma boa experiência em diferentes dispositivos.
-## ✨ Funcionalidades
 
 ---
+
+## ✨ Funcionalidades
 
 - 💈 Apresentação da barbearia
 - ✂️ Exibição dos serviços
