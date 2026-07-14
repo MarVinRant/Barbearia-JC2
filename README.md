@@ -52,16 +52,11 @@ O maior desafio deste projeto foi transformar as necessidades do cliente em uma 
 
 ---
 
-## 📚 O que aprendi
+## 💡 Principais aprendizados
 
-Durante o desenvolvimento deste projeto aprofundei conhecimentos em:
+Durante o desenvolvimento deste projeto tive a oportunidade de aprofundar conhecimentos em React, componentização, organização de aplicações Front-end e deploy em produção.
 
-- Componentização utilizando React
-- Estruturação de aplicações Front-end
-- Organização de componentes
-- Responsividade
-- Desenvolvimento baseado na necessidade do cliente
-- Deploy em produção
+Além da evolução técnica, este projeto reforçou a importância de compreender as necessidades do cliente antes de iniciar o desenvolvimento, buscando criar uma solução que realmente agregasse valor ao negócio.
 
 ---
 
